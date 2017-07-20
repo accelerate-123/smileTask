@@ -1,8 +1,6 @@
 #!/usr/local/bin/python3
 # -*- coding:utf-8 -*-
 
-__author__='thomas nie'
-
 import requests
 import unittest
 import json
